@@ -1,0 +1,8 @@
+C:\Users\QWERTY\Desktop\mvcApp\bin\Debug\netcoreapp1.1\mvcApp.deps.json
+C:\Users\QWERTY\Desktop\mvcApp\bin\Debug\netcoreapp1.1\mvcApp.runtimeconfig.json
+C:\Users\QWERTY\Desktop\mvcApp\bin\Debug\netcoreapp1.1\mvcApp.runtimeconfig.dev.json
+C:\Users\QWERTY\Desktop\mvcApp\bin\Debug\netcoreapp1.1\mvcApp.dll
+C:\Users\QWERTY\Desktop\mvcApp\bin\Debug\netcoreapp1.1\mvcApp.pdb
+C:\Users\QWERTY\Desktop\mvcApp\obj\Debug\netcoreapp1.1\mvcApp.AssemblyInfo.cs
+C:\Users\QWERTY\Desktop\mvcApp\obj\Debug\netcoreapp1.1\mvcApp.dll
+C:\Users\QWERTY\Desktop\mvcApp\obj\Debug\netcoreapp1.1\mvcApp.pdb
